@@ -1,4 +1,4 @@
-# EPN-AAL
+# EPN-Libres
 Aplicaciones en Ambientes libres
 
 ### Prueba de visualización
